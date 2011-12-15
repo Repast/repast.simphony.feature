@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="repast.simphony_feature"
+      label="repast.simphony_feature"
+      version="2.0.1"
+      provider-name="Argonne National Laboratory">
+
+   <description url="http://repast.sourceforge.net/">
+      Repast Simphony is a free and open source agent-based modeling toolkit that offers users a rich variety of features. Documentation on Repast Simphony, including a tutorial, can be found at http://repast.sourceforge.net/docs/docs_main.html
+   </description>
+
+   <copyright>
+      Copyright (c) 2010 Argonne National Laboratory. All rights reserved.
+   </copyright>
+
+   <license url="http://repast.sourceforge.net/repast-license.html">
+      Repast Simphony
+
+   Copyright (c) 2010 Argonne National Laboratory
+   All rights reserved.
+  
+   Redistribution and use in source and binary forms, with 
+   or without modification, are permitted provided that the following 
+   conditions are met:
+  
+    Redistributions of source code must retain the above copyright notice,
+    this list of conditions and the following disclaimer.
+  
+    Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+  
+    Neither the name of the Argonne National Laboratory nor the names of its
+     contributors may be used to endorse or promote products derived from
+     this software without specific prior written permission.
+  
+   THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+   ``AS IS&apos;&apos; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+   LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+   PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE TRUSTEES OR
+   CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+   EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+   PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+   PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+   LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+   NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+   EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+   
+Repast Simphony uses libraries with a range of compatible licenses including
+the Eclipse Public License (http://www.opensource.org/licenses/eclipse-1.0.php),
+the GNU Library General Public License (http://www.opensource.org/licenses/lgpl-2.1.php),
+the Common Public License (http://www.opensource.org/licenses/cpl1.0.php),
+the Apache License (http://www.apache.org/licenses/LICENSE-2.0), and other licenses.
+Please see the licenses folder in the appropriate Repast Simphony plugin for details.
+   </license>
+
+   <plugin
+         id="libs.bsf"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.bin_and_src"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.batch"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.chart"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.core"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.data"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.data.bsf"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.data.ui"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.dataLoader"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.dataLoader.ui"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.essentials"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.freezedry"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.gis"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.groovy"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.gui"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.integration"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.iReport"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.jasperreports"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.jdbcfreezedryer"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.jung"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.matlab"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.plugin.util"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.R"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.runtime"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.eclipse"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.scenario"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.spreadsheet"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.systemdynamics"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.terracotta"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.visad"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.visualization"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.weka"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="libs.piccolo"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="saf.core.ui"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.ora"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.pajek"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.sql"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"
+         unpack="false"/>
+
+   <plugin
+         id="repast.simphony.grass"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.relogo.ide"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.relogo.runtime"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+   <plugin
+         id="repast.simphony.userpanel.ui"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"
+         unpack="false"/>
+
+   <plugin
+         id="repast.simphony.distributedBatch"
+         download-size="0"
+         install-size="0"
+         version="2.0.1"/>
+
+</feature>

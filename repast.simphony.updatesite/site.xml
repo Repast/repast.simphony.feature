@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description url="http://mirror.anl.gov/pub/repastsimphony">
+      Repast Simphony Update Site
+   </description>
+   <feature url="features/repast.simphony_feature_2.0.1.jar" id="repast.simphony_feature" version="2.0.1">
+      <category name="Repast Simphony"/>
+   </feature>
+   <category-def name="Repast Simphony" label="Repast Simphony">
+      <description>
+         Repast Simphony is a free and open source agent-based modeling toolkit that offers users a rich variety of features. Documentation on Repast Simphony, including a tutorial, can be found at http://repast.sourceforge.net/docs/docs_main.html
+      </description>
+   </category-def>
+</site>
