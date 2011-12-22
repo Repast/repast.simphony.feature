@@ -91,12 +91,6 @@ Please see the licenses folder in the appropriate Repast Simphony plugin for det
          version="2.0.1"/>
 
    <plugin
-         id="repast.simphony.data.bsf"
-         download-size="0"
-         install-size="0"
-         version="2.0.1"/>
-
-   <plugin
          id="repast.simphony.data.ui"
          download-size="0"
          install-size="0"
