@@ -1,0 +1,13 @@
+<!-- deletes the existing update site jars -->
+<project name="DeleteJars" default="delete_jars">
+    <target name="delete_jars">
+    <delete>
+            <fileset dir="." casesensitive="no">
+                <include name="artifacts.jar" />
+                <include name="content.jar" />
+                <include name="plugins/*.jar" />
+                <include name="features/*.jar" />
+            </fileset>
+        </delete>
+     </target>
+</project>
