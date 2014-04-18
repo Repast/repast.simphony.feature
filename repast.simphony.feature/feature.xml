@@ -167,6 +167,12 @@ Please see the licenses folder in the appropriate Repast Simphony plugin for det
          download-size="0"
          install-size="0"
          version="0.0.0"/>
+         
+   <plugin
+         id="repast.simphony.gis.visualization"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
 
    <plugin
          id="repast.simphony.grass"
