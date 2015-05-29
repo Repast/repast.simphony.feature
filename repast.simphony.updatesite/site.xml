@@ -3,7 +3,7 @@
    <description url="http://mirror.anl.gov/pub/repastsimphony">
       Repast Simphony Update Site
    </description>
-   <feature url="features/repast.simphony.feature_2.3.0.jar" id="repast.simphony.feature" version="2.3.0">
+   <feature url="features/repast.simphony.feature_2.3.1.jar" id="repast.simphony.feature" version="2.3.1">
       <category name="Repast Simphony"/>
    </feature>
    <category-def name="Repast Simphony" label="Repast Simphony">
