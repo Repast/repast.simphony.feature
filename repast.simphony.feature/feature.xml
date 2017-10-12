@@ -6,15 +6,17 @@
       provider-name="Argonne National Laboratory"
       plugin="repast.simphony.eclipse">
 
-   <description url="http://repast.sourceforge.net/">
-      Repast Simphony is a free and open source agent-based modeling toolkit that offers users a rich variety of features. Documentation on Repast Simphony, including a tutorial, can be found at http://repast.sourceforge.net/docs/docs_main.html
+   <description url="http://repast.giithub.io">
+      Repast Simphony is a free and open source agent-based modeling
+toolkit that offers users a rich variety of features. Documentation
+on Repast Simphony, including a tutorial, can be found at http://repast.sourceforge.net/docs/docs_main.html
    </description>
 
    <copyright>
       Copyright (c) 2017 Argonne National Laboratory. All rights reserved.
    </copyright>
 
-   <license url="http://repast.sourceforge.net/repast-license.html">
+   <license url="https://repast.github.io/license.html">
       Repast Simphony
 
    Copyright (c) 2017 Argonne National Laboratory
@@ -56,8 +58,12 @@ the Apache License (http://www.apache.org/licenses/LICENSE-2.0), and other licen
 Please see the licenses folder in the appropriate Repast Simphony plugin for details.
    </license>
 
+   <url>
+      <update label="Repast Simphony Update Site" url="https://repocafe.cels.anl.gov/repos/repast/"/>
+   </url>
+
    <requires>
-      <import feature="org.eclipse.wst.xml_core.feature" version="3.6.3.v201501211904" match="greaterOrEqual"/>
+      <import feature="org.eclipse.gmf.tooling.runtime" version="3.3.1.201509291144"/>
    </requires>
 
    <plugin

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description url="http://mirror.anl.gov/pub/repastsimphony">
+   <description name="Repast Simphony Update Site" url="https://repocafe.cels.anl.gov/repos/repast/">
       Repast Simphony Update Site
    </description>
-   <feature url="features/repast.simphony.feature_2.5.0.jar" id="repast.simphony.feature" version="2.5.0">
+   <feature url="features/repast.simphony.feature_2.5.0.jar" id="repast.simphony.feature" version="2.5.0" os="">
       <category name="Repast Simphony"/>
    </feature>
    <category-def name="Repast Simphony" label="Repast Simphony">
       <description>
-         Repast Simphony is a free and open source agent-based modeling toolkit that offers users a rich variety of features. Documentation on Repast Simphony, including a tutorial, can be found at http://repast.sourceforge.net/docs/docs_main.html
+         Repast Simphony is a free and open source agent-based modeling toolkit 
+         that offers users a rich variety of features. Documentation on Repast 
+         Simphony, including a tutorial, can be found at http://repast.github.io
       </description>
    </category-def>
 </site>
