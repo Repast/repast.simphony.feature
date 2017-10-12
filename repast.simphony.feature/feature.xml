@@ -62,10 +62,6 @@ Please see the licenses folder in the appropriate Repast Simphony plugin for det
       <update label="Repast Simphony Update Site" url="https://repocafe.cels.anl.gov/repos/repast/"/>
    </url>
 
-   <requires>
-      <import feature="org.eclipse.gmf.tooling.runtime" version="3.3.1.201509291144"/>
-   </requires>
-
    <plugin
          id="libs.bsf"
          download-size="0"
