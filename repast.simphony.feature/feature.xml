@@ -2,7 +2,7 @@
 <feature
       id="repast.simphony.feature"
       label="Repast Simphony"
-      version="2.6.0"
+      version="2.7.0"
       provider-name="Argonne National Laboratory"
       plugin="repast.simphony.eclipse">
 
@@ -13,13 +13,13 @@ on Repast Simphony, including a tutorial, can be found at http://repast.giithub.
    </description>
 
    <copyright>
-      Copyright (c) 2018 Argonne National Laboratory. All rights reserved.
+      Copyright (c) 2019 Argonne National Laboratory. All rights reserved.
    </copyright>
 
    <license url="https://repast.github.io/license.html">
       Repast Simphony
 
-   Copyright (c) 2018 Argonne National Laboratory
+   Copyright (c) 2019 Argonne National Laboratory
    All rights reserved.
   
    Redistribution and use in source and binary forms, with 
