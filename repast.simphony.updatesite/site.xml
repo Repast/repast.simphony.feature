@@ -3,7 +3,7 @@
    <description name="Repast Simphony Update Site" url="https://repocafe.cels.anl.gov/repos/repast/">
       Repast Simphony Update Site
    </description>
-   <feature url="features/repast.simphony.feature_2.9.1.jar" id="repast.simphony.feature" version="2.9.1">
+   <feature url="features/repast.simphony.feature_2.10.0.jar" id="repast.simphony.feature" version="2.10.0">
       <category name="Repast Simphony"/>
    </feature>
    <category-def name="Repast Simphony" label="Repast Simphony">
