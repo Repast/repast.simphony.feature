@@ -6,10 +6,10 @@
       provider-name="Argonne National Laboratory"
       plugin="repast.simphony.eclipse">
 
-   <description url="http://repast.giithub.io">
+   <description url="http://repast.github.io">
       Repast Simphony is a free and open source agent-based modeling
 toolkit that offers users a rich variety of features. Documentation
-on Repast Simphony, including a tutorial, can be found at http://repast.giithub.io
+on Repast Simphony, including a tutorial, can be found at http://repast.github.io
    </description>
 
    <copyright>
@@ -59,277 +59,187 @@ Please see the licenses folder in the appropriate Repast Simphony plugin for det
    </license>
 
    <url>
-      <update label="Repast Simphony Update Site" url="https://repocafe.cels.anl.gov/repos/repast/"/>
+      <update label="Repast Simphony Update Site" url="https://web.cels.anl.gov/projects/Repast/update_site/"/>
    </url>
 
    <plugin
          id="libs.bsf"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.bin_and_src"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.batch"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.chart"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.core"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.data"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.data.ui"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.dataLoader"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.dataLoader.ui"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.essentials"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.freezedry"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.gis"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.gis.visualization"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.groovy"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.gui"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.integration"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.jasperreports"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.jdbcfreezedryer"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.jung"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.plugin.util"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.R"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.runtime"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.eclipse"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.scenario"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.spreadsheet"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.visualization"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.weka"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="libs.piccolo"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="saf.core.ui"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.pajek"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.sql"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.relogo.ide"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.relogo.runtime"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.userpanel.ui"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.distributed.batch"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.distributed.batch.ui"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.statecharts"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.statecharts.diagram"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.statecharts.edit"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.statecharts.generator"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.statecharts.model"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.statecharts.visualization"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.relogo.builder"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="libs.ext"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
    <plugin
          id="repast.simphony.server"
-         download-size="0"
-         install-size="0"
          version="2.11.0"/>
 
 </feature>

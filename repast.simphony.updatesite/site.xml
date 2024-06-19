@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Repast Simphony Update Site" url="https://repocafe.cels.anl.gov/repos/repast/">
+   <description name="Repast Simphony Update Site" url="https://web.cels.anl.gov/projects/Repast/update_site/">
       Repast Simphony Update Site
    </description>
    <feature url="features/repast.simphony.feature_2.11.0.jar" id="repast.simphony.feature" version="2.11.0">
