@@ -2,7 +2,7 @@
 <feature
       id="repast.simphony.feature"
       label="Repast Simphony"
-      version="2.11.0"
+      version="2.12.0"
       provider-name="Argonne National Laboratory"
       plugin="repast.simphony.eclipse">
 
@@ -13,13 +13,13 @@ on Repast Simphony, including a tutorial, can be found at http://repast.github.i
    </description>
 
    <copyright>
-      Copyright (c) 2024 Argonne National Laboratory. All rights reserved.
+      Copyright (c) 2026 Argonne National Laboratory. All rights reserved.
    </copyright>
 
    <license url="https://repast.github.io/license.html">
       Repast Simphony
 
-   Copyright (c) 2024 Argonne National Laboratory
+   Copyright (c) 2026 Argonne National Laboratory
    All rights reserved.
   
    Redistribution and use in source and binary forms, with 
@@ -64,182 +64,182 @@ Please see the licenses folder in the appropriate Repast Simphony plugin for det
 
    <plugin
          id="libs.bsf"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.bin_and_src"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.batch"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.chart"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.core"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.data"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.data.ui"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.dataLoader"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.dataLoader.ui"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.essentials"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.freezedry"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.gis"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.gis.visualization"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.groovy"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.gui"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.integration"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.jasperreports"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.jdbcfreezedryer"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.jung"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.plugin.util"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.R"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.runtime"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.eclipse"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.scenario"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.spreadsheet"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.visualization"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.weka"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="libs.piccolo"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="saf.core.ui"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.pajek"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.sql"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.relogo.ide"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.relogo.runtime"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.userpanel.ui"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.distributed.batch"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.distributed.batch.ui"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.statecharts"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.statecharts.diagram"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.statecharts.edit"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.statecharts.generator"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.statecharts.model"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.statecharts.visualization"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.relogo.builder"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="libs.ext"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
    <plugin
          id="repast.simphony.server"
-         version="2.11.0"/>
+         version="2.12.0"/>
 
 </feature>
