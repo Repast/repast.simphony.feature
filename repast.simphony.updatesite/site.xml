@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site>
+<site
+      associateSitesURL="associateSites.xml">
    <description name="Repast Simphony Update Site" url="https://web.cels.anl.gov/projects/Repast/update_site/">
       Repast Simphony Update Site
    </description>
@@ -13,4 +14,6 @@
          Simphony, including a tutorial, can be found at http://repast.github.io
       </description>
    </category-def>
+   <repository-reference location="https://groovy.jfrog.io/artifactory/plugins-release/e4.39" name="" enabled="true" />
+   <repository-reference location="https://web.cels.anl.gov/projects/Repast/xpand-mirror/" name="" enabled="true" />
 </site>

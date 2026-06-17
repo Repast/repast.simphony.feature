@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<associateSites>
+   <associateSite url="https://groovy.jfrog.io/artifactory/plugins-release/e4.39" label="Groovy Development Tools for e4.39"/>
+   <associateSite url="https://web.cels.anl.gov/projects/Repast/xpand-mirror/" label="Xpand/Xtend 2.2.0 (Repast mirror)"/>
+</associateSites>

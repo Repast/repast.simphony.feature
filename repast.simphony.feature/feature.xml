@@ -62,6 +62,14 @@ Please see the licenses folder in the appropriate Repast Simphony plugin for det
       <update label="Repast Simphony Update Site" url="https://web.cels.anl.gov/projects/Repast/update_site/"/>
    </url>
 
+   <requires>
+      <import feature="org.codehaus.groovy.compilerless.feature" version="6.0.0" match="greaterOrEqual"/>
+      <import feature="org.codehaus.groovy30.feature" version="6.0.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.xpand" version="2.2.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.xtend" version="2.2.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.xtend.typesystem.emf" version="2.2.0" match="greaterOrEqual"/>
+   </requires>
+
    <plugin
          id="libs.bsf"
          version="2.12.0"/>
